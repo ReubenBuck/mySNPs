@@ -3,8 +3,8 @@ Type: Package
 Title: What the package does (short line)
 Version: 1.0
 Date: 2016-04-05
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
+Author: Reuben
+Maintainer: <lu.zeng@adelaide.edu.au>
 Description: More about what it does (maybe more than one line)
 License: What license is it under?
 RoxygenNote: 5.0.1
